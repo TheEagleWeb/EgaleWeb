@@ -12,8 +12,17 @@ npm create svelte@latest
 
 # create a new project in my-app
 npm create svelte@latest my-app
+
+# open the newly created my-app
+cd my-app
 ```
 
+## Install Tailwind CSS
+
+```bash
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+```
 ## Developing
 
 Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
