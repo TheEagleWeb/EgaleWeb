@@ -18,11 +18,12 @@ cd my-app
 ```
 
 ## Install Tailwind CSS
-
+Install tailwindcss and its peer dependencies, then generate your `tailwind.config.js` and `postcss.config.js` files:
 ```bash
 npm install -D tailwindcss postcss autoprefixer
 npx tailwindcss init -p
 ```
+
 ## Developing
 
 Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
