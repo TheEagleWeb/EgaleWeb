@@ -10,7 +10,7 @@ If you're seeing this, you've probably already done this step. Congrats!
 # clone project into file
 git clone https://github.com/TheEagleWeb/EgaleWeb.git
 # open the newly created my-app
-cd cd EgaleWeb
+cd EgaleWeb
 ```
 
 ## Install Tailwind CSS
