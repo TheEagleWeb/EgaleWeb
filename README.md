@@ -8,7 +8,7 @@ If you're seeing this, you've probably already done this step. Congrats!
 
 ```bash
 # clone project into file
-git clone https://github.com/TheEagleWeb/EgaleWeb.git
+git clone -b master https://github.com/TheEagleWeb/EgaleWeb.git
 # open the newly created my-app
 cd EgaleWeb
 cd Eagles
