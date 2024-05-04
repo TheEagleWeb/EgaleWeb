@@ -17,6 +17,7 @@ cd Eagles
 ## Install Tailwind CSS
 Install tailwindcss and its peer dependencies, then generate your `tailwind.config.js` and `postcss.config.js` files:
 ```bash
+npm install svelte@latest 
 npm install -D tailwindcss postcss autoprefixer
 npx tailwindcss init -p
 ```
