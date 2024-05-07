@@ -10,13 +10,12 @@
 </script>
 
 <div>
+  <slot />
   <Navbar />
   <Hero />
   <Service />
   <Gallery_Team />
-  
-      <TestimonialCard />
- 
+  <TestimonialCard />
   <Contact />
   <Footer />
  

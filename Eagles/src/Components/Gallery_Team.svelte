@@ -1,11 +1,11 @@
 
 
-<div class="max-w-screen-xl mx-auto px-4 md:px-10 py-6 md:py-10 relative overflow-hidden bg-slate-300 rounded-xl mt-32">
+<div class="max-w-screen-xl mx-auto px-4 md:px-10 py-6 md:py-10 relative overflow-hidden bg-slate-300 rounded-xl mt-32 ">
   <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 md:gap-8 ml-2 md:ml-6 relative z-10">
     <div class="md:col-span-2 p-4 md:p-8 flex flex-col justify-center">
       <h2 class="text-3xl md:text-5xl font-semibold mb-2 md:mb-3 text-gray-900">PEOPLE LOVED</h2>
       <h2 class="text-3xl md:text-5xl font-semibold mb-4 md:mb-6 text-gray-900">OUR TEAM</h2>
-      <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quas reprehenderit laborum dolorem totam velit quod omnis numquam ut assumenda voluptas alias odit, in id sed porro dolores minus sequi excepturi.</p>
+      <p>Our team comprises seasoned professionals with official certifications from tech titans like Google and Facebook. Their expertise ensures top-tier services that consistently deliver exceptional results</p>
     </div>
     <img src="https://via.placeholder.com/800" class="rounded-xl object-cover h-60 md:h-72 w-60 md:w-72 mb-6 md:mb-0 " alt="/">
     <img src="https://via.placeholder.com/800" class="rounded-xl object-cover h-60 md:h-72 w-60 md:w-72 mb-6 md:mb-0"  alt="/">
