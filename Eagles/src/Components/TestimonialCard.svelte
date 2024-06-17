@@ -1,4 +1,4 @@
-<div class="py-40">
+<div class="py-60">
 <section class=" dark:bg-gray-100 dark:text-gray-800 rounded-lg">
     <div class="container px-6 mx-auto">
         <div class="grid items-center gap-8 xl:grid-cols-5">

@@ -1,6 +1,6 @@
 
 
-<div class="max-w-screen-xl mx-auto px-4 md:px-10 py-6 md:py-10 relative overflow-hidden bg-slate-300 rounded-xl mt-32 ">
+<div class="max-w-screen-xl mx-auto px-4 md:px-10 py-6 md:py-10 relative overflow-hidden bg-slate-300 rounded-xl my-40 ">
   <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 md:gap-8 ml-2 md:ml-6 relative z-10">
     <div class="md:col-span-2 p-4 md:p-8 flex flex-col justify-center">
       <h2 class="text-3xl md:text-5xl font-semibold mb-2 md:mb-3 text-gray-900">PEOPLE LOVED</h2>

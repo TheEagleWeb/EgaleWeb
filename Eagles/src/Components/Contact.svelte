@@ -1,10 +1,6 @@
-<html>
-  <head>
-  <script src="https://cdn.tailwindcss.com"></script>
-</head>
-  <body>
-<div class="my-6">
-            <div class="grid sm:grid-cols-2 items-center gap-16 p-8 mx-auto max-w-4xl bg-white shadow-[0_2px_10px_-3px_rgba(6,81,237,0.3)] rounded-md text-[#333] font-[sans-serif]">
+
+<div class="mb-40 mt-24">
+            <div class="grid sm:grid-cols-2 items-center gap-28 p-8 mx-auto max-w-4xl bg-white shadow-[0_2px_10px_-3px_rgba(6,81,237,0.3)] rounded-md text-[#333] font-[sans-serif]">
                 <div>
                     <h1 class="text-3xl font-extrabold">Let's Talk</h1>
                     <p class="text-sm text-gray-400 mt-3">Have some big idea or brand to develop and need help? Then reach out we'd love to hear about your project  and provide help.</p>
@@ -31,7 +27,7 @@
                         <h2 class="text-lg font-extrabold">Socials</h2>
                         <ul class="flex mt-3 space-x-4">
                             <li class="bg-[#e6e6e6cf] h-10 w-10 rounded-full flex items-center justify-center shrink-0">
-                                <a href="javascript:void(0)">
+                                <a href="">
                                     <svg xmlns="http://www.w3.org/2000/svg" width="20px" height="20px" fill='#007bff'
                                         viewBox="0 0 24 24">
                                         <path
@@ -79,5 +75,3 @@
             </div>
         </div>
     
-  </body>
-</html>
